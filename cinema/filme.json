@@ -1,0 +1,42 @@
+{
+  "5": {
+    "py/object": "Domain.film.Film",
+    "idEntitate": "5",
+    "titlu": "apex",
+    "anAparitie": 2021,
+    "pretBilet": 23.0,
+    "inProgram": "NU"
+  },
+  "4": {
+    "py/object": "Domain.film.Film",
+    "idEntitate": "4",
+    "titlu": "logan",
+    "anAparitie": 2019,
+    "pretBilet": 10.0,
+    "inProgram": "DA"
+  },
+  "1": {
+    "py/object": "Domain.film.Film",
+    "idEntitate": "1",
+    "titlu": "asd",
+    "anAparitie": 1234,
+    "pretBilet": 12.0,
+    "inProgram": "NU"
+  },
+  "2": {
+    "py/object": "Domain.film.Film",
+    "idEntitate": "2",
+    "titlu": "ert",
+    "anAparitie": 3456,
+    "pretBilet": 23.0,
+    "inProgram": "DA"
+  },
+  "3": {
+    "py/object": "Domain.film.Film",
+    "idEntitate": "3",
+    "titlu": "007",
+    "anAparitie": 2021,
+    "pretBilet": 45.0,
+    "inProgram": "DA"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "1": {
+    "py/object": "Domain.film.Film",
+    "idEntitate": "1",
+    "titlu": "spiderman",
+    "anAparitie": 2020,
+    "pretBilet": 15,
+    "inProgram": "NU"
+  }
+}

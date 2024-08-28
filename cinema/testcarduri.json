@@ -1,0 +1,12 @@
+{
+  "1": {
+    "py/object": "Domain.cardClient.CardClient",
+    "idEntitate": "1",
+    "nume": "muresan",
+    "prenume": "alin",
+    "CNP": "1234567890098",
+    "dataNasterii": "11.12.1234",
+    "dataInregistrarii": "12.01.1234",
+    "puncteAcumulate": 0
+  }
+}
